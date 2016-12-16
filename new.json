@@ -1,0 +1,5 @@
+{
+    "sprite_data": ["sprite_data.json"],
+    "sdl_config": "sdl_config.json",
+    "texture_path": "sprite_sheet.png"
+}

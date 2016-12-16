@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "wall",
+        "x" : 0,
+        "y" : 0,
+        "width" : 32,
+        "height" : 32
+    },
+    {
+        "name" : "snake",
+        "x" : 32,
+        "y" : 0,
+        "width" : 32,
+        "height" : 32
+    },
+    {
+        "name" : "food",
+        "x" : 32,
+        "y" : 0,
+        "width" : 32,
+        "height" : 32
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "frames": [
+        {
+            "id" : "wall_frame",
+            "x" : 0,
+            "y" : 0,
+            "width" : 32,
+            "height" : 32
+        } ,
+        {
+            "id" : "snake_frame",
+            "x" : 32,
+            "y" : 0,
+            "width" : 32,
+            "height" : 32
+        } 
+    ],
+    "animations": [
+        {
+            "id": "static_wall",
+            "frames": ["wall_frame"]
+        },
+        {
+            "id": "static_snake",
+            "frames": ["snake_frame"]
+        }
+    ],
+    "sprites": [
+        {
+            "id": "snake_sprite",
+            "animations": ["static_snake"]
+        },
+        {
+            "id": "wall_sprite",
+            "animations": ["static_wall"]
+        }
+    ]
+}
